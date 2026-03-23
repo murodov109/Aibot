@@ -1,6 +1,7 @@
-aiogram==3.5.0
+aiogram
 python-dotenv
 aiosqlite
+opencv-python
 Pillow
 requests
 aiohttp
