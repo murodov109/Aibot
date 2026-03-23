@@ -1,0 +1,26 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+# C extensions
+*.so
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.installed.cfg
+*.egg
+# Test and coverage
+.coverage
+.tox
+.nox
+*.coverage.*
+*.hypothesis/
+# pyenv
+.python-version
+# mypy
+.mypy_cache/
+# mypy
+.mypy_cache/
